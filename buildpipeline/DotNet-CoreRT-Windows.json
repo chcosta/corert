@@ -211,7 +211,7 @@
       "enabled": true,
       "continueOnError": false,
       "alwaysRun": false,
-      "displayName": "Publish to Symbols to Artifact Services",
+      "displayName": "Publish Symbols to Artifact Services",
       "timeoutInMinutes": 0,
       "condition": "succeeded()",
       "task": {
